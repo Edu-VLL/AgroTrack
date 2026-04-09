@@ -1,9 +1,3 @@
-Para el desarrollo de AgroTrack, se plantean las siguientes suposiciones iniciales basadas en el enfoque Lean UX:
-- Creemos que los agricultores pequeños tienen dificultades para tomar decisiones de riego debido a la falta de información sobre el estado real de su suelo.
-- Creemos que contar con datos como la humedad del suelo puede ayudar a los agricultores a tomar decisiones más acertadas sobre cuándo regar.
-- Creemos que los agricultores valoran recibir alertas anticipadas sobre cambios climáticos que puedan afectar sus cultivos.
-- Creemos que las recomendaciones automáticas basadas en datos del suelo y del clima pueden mejorar el uso del agua y reducir desperdicios.
-- Creemos que los agricultores prefieren herramientas simples y visuales que les permitan entender fácilmente el estado de sus cultivos.
-- Creemos que llevar un registro digital de sus cultivos facilitará el seguimiento y control de sus siembras en comparación con métodos tradicionales.
-- Creemos que los agricultores estarán dispuestos a usar una plataforma web si perciben beneficios claros en su producción o ahorro de recursos.
-- Creemos que, aunque inicialmente el ingreso de datos sea manual, los usuarios verán valor en la plataforma si reciben recomendaciones útiles.
+Andes Smart es una startup enfocada en desarrollar soluciones tecnológicas accesibles para el sector agrícola, especialmente para pequeños y medianos agricultores que no cuentan con herramientas digitales avanzadas. Nace con la intención de reducir la brecha tecnológica en el campo y mejorar la toma de decisiones a través del uso de datos.
+Su producto principal, AgroTack, es una plataforma web que permite a los agricultores registrar sus parcelas, ingresar información sobre sus cultivos y recibir recomendaciones prácticas para optimizar el riego y el cuidado de sus tierras. La propuesta busca reemplazar prácticas tradicionales basadas en la intuición por decisiones más informadas y eficientes.
+A futuro, Andes Smart planea integrar tecnologías IoT, como sensores de humedad y temperatura, que permitirán recolectar datos en tiempo real directamente desde el campo. Esto no solo reducirá la carga manual del agricultor, sino que también mejorará la precisión de las recomendaciones, generando un impacto positivo en la productividad y el uso responsable de los recursos.
