@@ -45,7 +45,7 @@ Realizamos este análisis para identificar las fortalezas y debilidades de los c
 
 ---
 
-## 2.1.2. Estrategias y Tácticas frente a Competidores
+### 2.1.2. Estrategias y Tácticas frente a Competidores
 
 Frente al panorama competitivo analizado, AgroTrack adoptará las siguientes estrategias:
 
