@@ -1,4 +1,4 @@
-## 1.2.2.2. Lean UX Assumptions
+#### 1.2.2.2. Lean UX Assumptions
 
 Para el desarrollo de AgroTrack, se plantean las siguientes suposiciones iniciales basadas en el enfoque Lean UX:
 

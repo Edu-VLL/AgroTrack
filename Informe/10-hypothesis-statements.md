@@ -1,4 +1,4 @@
-#### Lean UX Hypothesis Statements
+#### 1.2.2.3. Lean UX Hypothesis Statements
 
 - Creemos que mostrar en tiempo real el nivel de humedad del suelo para agricultores pequeños con poco acceso a tecnología logrará que tomen mejores decisiones sobre cuándo regar. Sabremos que es verdad cuando al menos el 60% de usuarios consulte el monitoreo antes de regar durante las primeras 2 semanas de uso.
 
