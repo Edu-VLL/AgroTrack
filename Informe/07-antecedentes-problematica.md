@@ -8,15 +8,15 @@ Para estructurar el análisis del problema central que dio origen a AgroTrack, s
 
 Los agricultores pequeños del Perú toman sus decisiones de riego basándose principalmente en la intuición, la experiencia empírica o rutinas heredadas de generaciones anteriores. Esta práctica, aunque comprensible dado el contexto en que opera la mayoría de ellos, genera consecuencias directas en la productividad: el exceso de riego provoca encharcamiento y pérdida de nutrientes en el suelo, mientras que el déficit hídrico produce estrés en los cultivos y merma la cosecha. En ninguno de los dos casos el agricultor cuenta con información objetiva que le permita actuar a tiempo.
 
-A esto se suma la ausencia de herramientas de registro. La mayoría lleva el seguimiento de sus parcelas en papel, en libretas personales o simplemente de memoria. Cuando algo falla, es difícil rastrear qué salió mal y cuándo. El conocimiento sobre el estado de la tierra no se acumula ni se analiza; se pierde con cada temporada.
+A esto se suma la ausencia de herramientas de registro. La mayoría lleva el seguimiento de sus parcelas en papel, en libretas personales o simplemente de memoria. Cuando algo falla, es difícil rastrear qué salió mal y cuándo. El conocimiento sobre el estado de la tierra no se acumula ni se analiza, se pierde con cada temporada.
 
 ---
 
 **Why (¿Por qué sucede?)**
 
-El problema tiene raíces estructurales. Las soluciones tecnológicas disponibles en el mercado —como CropX o Trimble Ag— fueron diseñadas para grandes operaciones agroindustriales con presupuestos elevados y equipos técnicos especializados. Un agricultor pequeño en Cajamarca, Junín o Ica no tiene acceso real a esas herramientas, no solo por su costo, sino porque requieren infraestructura que no existe en zonas rurales.
+El problema tiene raíces estructurales. Las soluciones tecnológicas disponibles en el mercado como CropX o Trimble Ag fueron diseñadas para grandes operaciones agroindustriales con presupuestos elevados y equipos técnicos especializados. Un agricultor pequeño en Cajamarca, Junín o Ica no tiene acceso real a esas herramientas, no solo por su costo, sino porque requieren infraestructura que no existe en zonas rurales.
 
-Por otro lado, las iniciativas estatales orientadas a la digitalización del agro peruano —impulsadas por el MIDAGRI y la ANA— aún no han logrado traducirse en herramientas concretas y usables para el agricultor de a pie. La brecha entre la política pública y la realidad del campo sigue siendo grande.
+Por otro lado, las iniciativas estatales orientadas a la digitalización del agro peruano impulsadas por el MIDAGRI y la ANA aún no han logrado traducirse en herramientas concretas y usables para el agricultor de a pie. La brecha entre la política pública y la realidad del campo sigue siendo grande.
 
 A todo esto se agrega un factor cultural: el agricultor tradicional tiende a desconfiar de herramientas que no comprende o que percibe como ajenas a su trabajo. Si la tecnología no habla su idioma, no se adapta a su ritmo y no le muestra un beneficio claro desde el primer uso, simplemente no la adopta.
 
@@ -26,7 +26,7 @@ A todo esto se agrega un factor cultural: el agricultor tradicional tiende a des
 
 El problema impacta principalmente a dos perfiles:
 
-- **Agricultores pequeños e independientes**, hombres y mujeres de entre 20 y 75 años que trabajan sus propias parcelas, muchas veces con apoyo familiar. Para ellos, una mala decisión de riego no es solo un error técnico; puede significar perder una temporada entera y comprometer el sustento del hogar.
+- **Agricultores pequeños e independientes**, hombres y mujeres de entre 20 y 75 años que trabajan sus propias parcelas, muchas veces con apoyo familiar. Para ellos, una mala decisión de riego no es solo un error técnico, puede significar perder una temporada entera y comprometer el sustento del hogar.
 
 - **Empresarios agrícolas con pequeñas y medianas empresas (PYMEs)**, que gestionan varias parcelas pero no cuentan con sistemas que les den visibilidad real sobre su producción. Su problema no es la falta de conocimiento agrícola, sino la ausencia de datos organizados que les permitan tomar decisiones de inversión más informadas.
 
