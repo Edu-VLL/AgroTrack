@@ -72,10 +72,15 @@
 
 **Entrevista N° 6**
 
-| **Nombres y apellidos:** | **Edad:** | **Distrito:** |
+| **Nombres y apellidos:** Cristofer Ordalla| **Edad:** 29 | **Distrito:** Piura, Perú |
 |---|---|---|
 
-| **URL:** | **Inicio de la entrevista:** | **Duración:** |
+| **URL:** | [Entrevista - 2do seg obj - Joaquin Alfaro](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20241a267_upc_edu_pe/IQDZaXNASBtjSqMs6HKMKmKSAVUVdK2ce6BrVstfl1zh2gk?e=CN8ApV&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D).|**Inicio de la 
+entrevista:** 00:00| **Duración:** 7:44|
 |---|---|---|
+![Entrevista 5]()
 
-**Resumen:** *(Pendiente de completar)*
+**Resumen:** Christopher Ordalla, de 29 años, se integró hace aproximadamente un año y medio a una pequeña empresa agrícola familiar que cuenta con 5 hectáreas alquiladas. La empresa opera mediante un contrato de colaboración con un vecino para el alquiler de máquinas y el trabajo de la tierra. Su meta para este ciclo fiscal es alcanzar una producción de 8 toneladas de maíz en unas 3 hectáreas y estabilizar la rentabilidad, dado que actualmente manejan un presupuesto ajustado. Considera indispensables el celular para la comunicación general, la toma de fotos de los cultivos y la revisión del clima, así como una laptop para llevar las cuentas de ingresos y egresos en Excel.
+Monitorea indicadores clave (KPIs) como el rendimiento por hectárea, el costo total por kilo producido y el margen neto después del riesgo de fertilizantes. Autoriza presupuestos basándose empíricamente en la experiencia de su padre, los pronósticos de lluvias y la observación de cómo va creciendo el cultivo. La falta de datos precisos sobre el suelo provocó que sembraran en un terreno arcilloso creyendo que era homogéneo, lo que demandó un mayor uso de nitrógeno y les hizo perder un 25% de la producción esperada en ese lote. Conoce a un vecino de la zona que utiliza un dron para obtener vistas macro de la plantación y datos del suelo, herramienta que considera muy interesante.
+Pierden alrededor de un 18% de su producción por factores climáticos adversos en el norte, como granizo o sequías, e intentan mitigar el impacto revisando aplicaciones del clima para anticiparse. Actualmente, visita el campo de 1 a 3 veces al mes y recibe reportes de la persona que los ayuda mediante fotos y audios por WhatsApp, información que él mismo se encarga de vaciar en Excel. Valora enormemente la posibilidad de obtener datos en tiempo real de forma automática, ya que le ahorraría bastante tiempo y los costos asociados a la persona que ingresa los datos manualmente. Consideraría que la plataforma es un éxito si le ayuda a generar un ahorro de entre el 10% y el 20% en costos de agua y fertilizantes.
+
