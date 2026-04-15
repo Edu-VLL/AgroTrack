@@ -1,6 +1,6 @@
 ### **2.2.3. Análisis de entrevistas**
 
-#### **Segmento objetivo 1: Agricultores**
+**Segmento objetivo 1: Agricultores**
 
 A partir de las entrevistas realizadas a Walter Medina, Lucía Alarcón y Luz Mamani, se identifican los siguientes patrones comunes:
 
@@ -10,7 +10,7 @@ A partir de las entrevistas realizadas a Walter Medina, Lucía Alarcón y Luz Ma
 - La disposición a adoptar una herramienta digital es alta, siempre que sea simple, en español, funcione con poca internet y demuestre resultados concretos en reducción de pérdidas.
 - La función más demandada es la automatización de registros y las alertas de riego o eventos climáticos.
 
-#### **Segmento objetivo 2: Empresarios agrícolas**
+**Segmento objetivo 2: Empresarios agrícolas**
 
 A partir de las entrevistas realizadas a Renzo Quispe y Sofía Martínez, se identifican los siguientes patrones comunes:
 
