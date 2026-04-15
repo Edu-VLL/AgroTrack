@@ -75,9 +75,9 @@
 | **Nombres y apellidos:** Cristofer Ordalla| **Edad:** 29 | **Distrito:** Piura, Perú |
 |---|---|---|
 
-| **URL:** | [Entrevista - 2do seg obj - Joaquin Alfaro](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20241a267_upc_edu_pe/IQDZaXNASBtjSqMs6HKMKmKSAVUVdK2ce6BrVstfl1zh2gk?e=CN8ApV&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D).|**Inicio de la 
-entrevista:** 00:00| **Duración:** 7:44|
+| **URL:**  [Entrevista - 2do seg obj - Joaquin Alfaro](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20241a267_upc_edu_pe/IQDZaXNASBtjSqMs6HKMKmKSAVUVdK2ce6BrVstfl1zh2gk?e=CN8ApV&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D) |**Inicio de la entrevista:** 00:00 | **Duración:** 7:44 |
 |---|---|---|
+
 ![Entrevista 5](assets/Entrevista-06.png)
 
 **Resumen:** Christopher Ordalla, de 29 años, se integró hace aproximadamente un año y medio a una pequeña empresa agrícola familiar que cuenta con 5 hectáreas alquiladas. La empresa opera mediante un contrato de colaboración con un vecino para el alquiler de máquinas y el trabajo de la tierra. Su meta para este ciclo fiscal es alcanzar una producción de 8 toneladas de maíz en unas 3 hectáreas y estabilizar la rentabilidad, dado que actualmente manejan un presupuesto ajustado. Considera indispensables el celular para la comunicación general, la toma de fotos de los cultivos y la revisión del clima, así como una laptop para llevar las cuentas de ingresos y egresos en Excel.
