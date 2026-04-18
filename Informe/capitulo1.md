@@ -64,10 +64,8 @@ Enlace del repositorio: https://github.com/Edu-VLL/AgroTrack
 ## Contenido
 
 - [Registro de Versiones del Informe](#registro-de-versiones-del-informe)
-- [Project Report Collaboration Insights](#project-report-collaboration-insights)
-  - [Contenido](#contenido)
+- [Project Report Collaboration Insights](#project-report-collaboration-insights) 
 - [Student Outcome](#student-outcome)
-  - [| Comunica por escrito con efectividad a diferentes rangos de audiencia. | **Alberto Joaquin Alfaro Mallma**  **AV1:**  **Pablo Afranio Martinez Gaona**  **AV1**:   **Eder Edu Quispe Perez**  **AV1:**  **Miler Alexander Rodriguez Rojas** **AV1:**  **Eduardo David Velasquez Laquihuanaco** **AV1:** | |](#-comunica-por-escrito-con-efectividad-a-diferentes-rangos-de-audiencia--alberto-joaquin-alfaro-mallma--av1--pablo-afranio-martinez-gaona--av1---eder-edu-quispe-perez--av1--miler-alexander-rodriguez-rojas-av1--eduardo-david-velasquez-laquihuanaco-av1--)
 - [Capítulo I: Introducción](#capítulo-i-introducción)
   - [1.1. Startup Profile](#11-startup-profile)
     - [1.1.1. Descripción de la Startup](#111-descripción-de-la-startup)
@@ -80,6 +78,7 @@ Enlace del repositorio: https://github.com/Edu-VLL/AgroTrack
       - [1.2.2.3. Lean UX Hypothesis Statements](#1223-lean-ux-hypothesis-statements)
       - [1.2.2.4. Lean UX Canvas](#1224-lean-ux-canvas)
   - [1.3. Segmentos Objetivo](#13-segmentos-objetivo)
+
 
 # Student Outcome
 
