@@ -1,3 +1,5 @@
+## 1.2. Solution Profile
+
 ### 1.2.1. Antecedentes y problemática
 
 Para estructurar el análisis del problema central que dio origen a AgroTrack, se utiliza el framework **5W2H**, que permite identificar con claridad el contexto, los actores involucrados y la naturaleza del problema.

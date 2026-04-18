@@ -1,3 +1,5 @@
+### 1.2.2. Lean UX Process
+
 #### 1.2.2.1. Lean UX Problem Statements
 
 A partir del análisis de antecedentes y del Lean UX Canvas desarrollado para AgroTrack, se identifican los siguientes problem statements que guían el diseño de la solución:
