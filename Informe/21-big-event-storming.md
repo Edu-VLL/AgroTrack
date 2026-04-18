@@ -1,4 +1,4 @@
-### 2.4. Big Picture Event Storming
+## 2.4. Big Picture Event Storming
 
 El equipo realizó una sesión colaborativa en Miro para entender el dominio del negocio de alto nivel, identificando procesos clave y eventos significativos de AgroTrack. La organización visual sigue una línea de tiempo narrativa de izquierda a derecha.
 

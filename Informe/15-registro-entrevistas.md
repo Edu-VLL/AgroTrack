@@ -1,4 +1,4 @@
-### **2.2.2. Registro de entrevistas**
+### 2.2.2. Registro de entrevistas
 
 **Entrevista N° 1**
 

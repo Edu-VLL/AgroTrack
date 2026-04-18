@@ -1,4 +1,4 @@
-### 2.5. Ubiquitous Language
+## 2.5. Ubiquitous Language
 
 A continuación, se define el glosario de términos técnicos del dominio del negocio para asegurar una comunicación sin ambigüedades entre los miembros del equipo y los stakeholders.
 

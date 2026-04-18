@@ -1,4 +1,4 @@
-### **2.2.3. Análisis de entrevistas**
+### 2.2.3. Análisis de entrevistas
 
 **Segmento objetivo 1: Agricultores**
 
