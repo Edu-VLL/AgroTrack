@@ -1,3 +1,5 @@
+## 1.2. Solution Profile
+
 ### 1.2.1. Antecedentes y problemática
 
 Para estructurar el análisis del problema central que dio origen a AgroTrack, se utiliza el framework **5W2H**, que permite identificar con claridad el contexto, los actores involucrados y la naturaleza del problema.
@@ -26,9 +28,8 @@ A todo esto se agrega un factor cultural: el agricultor tradicional tiende a des
 
 El problema impacta principalmente a dos perfiles:
 
-- **Agricultores pequeños e independientes**, hombres y mujeres de entre 20 y 75 años que trabajan sus propias parcelas, muchas veces con apoyo familiar. Para ellos, una mala decisión de riego no es solo un error técnico, puede significar perder una temporada entera y comprometer el sustento del hogar.
-
-- **Empresarios agrícolas con pequeñas y medianas empresas (PYMEs)**, que gestionan varias parcelas pero no cuentan con sistemas que les den visibilidad real sobre su producción. Su problema no es la falta de conocimiento agrícola, sino la ausencia de datos organizados que les permitan tomar decisiones de inversión más informadas.
+* **Agricultores pequeños e independientes**, hombres y mujeres de entre 20 y 75 años que trabajan sus propias parcelas, muchas veces con apoyo familiar. Para ellos, una mala decisión de riego no es solo un error técnico, puede significar perder una temporada entera y comprometer el sustento del hogar.
+* **Empresarios agrícolas con pequeñas y medianas empresas (PYMEs)**, que gestionan varias parcelas pero no cuentan con sistemas que les den visibilidad real sobre su producción. Su problema no es la falta de conocimiento agrícola, sino la ausencia de datos organizados que les permitan tomar decisiones de inversión más informadas.
 
 Ambos perfiles comparten una necesidad común: necesitan información útil, en el momento justo, sin tener que convertirse en especialistas en tecnología para obtenerla.
 
@@ -50,9 +51,9 @@ El problema se vuelve crítico durante los momentos de decisión: antes de regar
 
 Las consecuencias son visibles en tres dimensiones:
 
-- **Económica**: el desperdicio de agua eleva los costos operativos, y los cultivos arruinados por riego inadecuado representan pérdidas directas para el agricultor.
-- **Productiva**: la falta de seguimiento sistemático impide identificar patrones de mejora o deterioro en las parcelas, lo que limita la capacidad de optimizar la producción temporada a temporada.
-- **Ambiental**: el uso ineficiente del agua en el agro peruano contribuye a la sobreexplotación de recursos hídricos, un problema cada vez más urgente en el contexto de variabilidad climática que vive el país.
+* **Económica**: el desperición de agua eleva los costos operativos, y los cultivos arruinados por riego inadecuado representan pérdidas directas para el agricultor.
+* **Productiva**: la falta de seguimiento sistemático impide identificar patrones de mejora o deterioro en las parcelas, lo que limita la capacidad de optimizar la producción temporada a temporada.
+* **Ambiental**: el uso ineficiente del agua en el agro peruano contribuye a la sobreexplotación de recursos hídricos, un problema cada vez más urgente en el contexto de variabilidad climática que vive el país.
 
 ---
 

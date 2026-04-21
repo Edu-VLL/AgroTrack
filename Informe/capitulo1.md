@@ -61,6 +61,24 @@ Enlace del repositorio: https://github.com/Edu-VLL/AgroTrack
 <br>
 <br>
 
+## Contenido
+
+- [Registro de Versiones del Informe](#registro-de-versiones-del-informe)
+- [Project Report Collaboration Insights](#project-report-collaboration-insights) 
+- [Student Outcome](#student-outcome)
+- [Capítulo I: Introducción](#capítulo-i-introducción)
+  - [1.1. Startup Profile](#11-startup-profile)
+    - [1.1.1. Descripción de la Startup](#111-descripción-de-la-startup)
+    - [1.1.2 Perfiles de integrantes del equipo](#112-perfiles-de-integrantes-del-equipo)
+  - [1.2. Solution Profile](#12-solution-profile)
+    - [1.2.1. Antecedentes y problemática](#121-antecedentes-y-problemática)
+    - [1.2.2. Lean UX Process](#122-lean-ux-process)
+      - [1.2.2.1. Lean UX Problem Statements](#1221-lean-ux-problem-statements)
+      - [1.2.2.2. Lean UX Assumptions](#1222-lean-ux-assumptions)
+      - [1.2.2.3. Lean UX Hypothesis Statements](#1223-lean-ux-hypothesis-statements)
+      - [1.2.2.4. Lean UX Canvas](#1224-lean-ux-canvas)
+  - [1.3. Segmentos Objetivo](#13-segmentos-objetivo)
+
 
 # Student Outcome
 
@@ -106,7 +124,7 @@ uso responsable de los recursos.
 <br>
 
 
-![Foto](assets/joaquin_foto.png)
+![Foto Joaquín](assets/joaquin_foto.png)
 
 **Nombres y apellidos:** Alberto Joaquín Alfaro Mallma
 
@@ -118,7 +136,7 @@ uso responsable de los recursos.
 
 ---
 
-![Foto](assets/Edu_foto.png)
+![Foto Edu](assets/Edu_foto.png)
 
 **Eder Edu Quispe Perez**
 
@@ -128,7 +146,7 @@ Me llamo Eder Edu Quispe Pérez, soy estudiante de Ingeniería de Software en la
 
 ---
 
-![Foto](assets/Miler_foto.png)
+![Foto Miler](assets/Miler_foto.png)
 
 **Rodriguez Rojas, Miler Alexander**
 
@@ -138,7 +156,7 @@ Soy estudiante de Ingeniería de Software de quinto ciclo, con 22 años, enfocad
 
 ---
 
-![Foto](assets/Pablo_foto.png)
+![Foto Pablo](assets/Pablo_foto.png)
 
 **Martinez Gaona, Pablo Afranio**
 
@@ -148,19 +166,18 @@ Tengo 24 años y estudio la carrera de Ingeniería de Software. Me considero alg
 
 ---
 
-![Foto](assets/Eduardo_foto.png)
+![Foto Eduardo](assets/Eduardo_foto.png)
 
 **Velasquez Laquihuanaco, Eduardo David**
 
 **Código:** U202323350
 
 Mi nombre es Eduardo David Velasquez Laquihuanaco, tengo 20 años, estudio la carrera de Ingeniería de Software con un gran interés en la tecnología y la innovación con el objetivo de desarrollar soluciones que mejoren la vida de las personas. Actualmente estoy en el 5to ciclo en la Universidad Peruana de Ciencias Aplicadas. En mis ratos libres me gusta escuchar música, jugar en línea con amigos y programar.
+ 
 
 <br>
 
-------------------------------------------------------------------------
-
-<br>
+## 1.2. Solution Profile
 
 ### 1.2.1. Antecedentes y problemática
 
@@ -287,6 +304,8 @@ riego no es un problema menor: es uno de los principales factores que
 limitan la productividad del agro peruano y el bienestar de las familias
 que dependen de él.
 
+### 1.2.2. Lean UX Process
+
 #### 1.2.2.1. Lean UX Problem Statements
 
 A partir del análisis de antecedentes y del Lean UX Canvas desarrollado
@@ -406,7 +425,7 @@ iniciales basadas en el enfoque Lean UX:
 
 ![Lean UX Canvas de AgroTrack](assets/Lean_UX_Canvas.jpg)
 
-## 1.3. Segmentes Objetivo
+## 1.3. Segmentos Objetivo
 
 - **Agricultores** Trabajadores en el sector agrícola del Perú entre 20
   y 75 años, con educación secundaria completa. Valoran la mano de obra,

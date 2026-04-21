@@ -35,6 +35,7 @@ const translation =
                 "footer.title-copyright": "2026 AgroTrack — Andes Smart. All rights reserved.",
                 "footer.title-privacy-policy": "Privacy policy",
                 "footer.title-term-conditions": "Terms and conditions"
+                "demo.formButton": "Request demo"
             },
         es_419:
             {
@@ -60,6 +61,7 @@ const translation =
                 "footer.title-privacy-policy": "Política de privacidad",
                 "footer.title-term-conditions": "Términos y condiciones"
 
+                "demo.formButton": "Solicitar demo"
             }
     }
 
