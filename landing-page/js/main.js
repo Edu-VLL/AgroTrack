@@ -21,6 +21,20 @@ const translation =
                 "demo.formSubtitle": "We’ll contact you within 24 hours.",
                 "demo.labelName": "Full Name",
                 "demo.labelEmail": "Email",
+                "demo.formButton": "Request demo",
+
+                //Footer
+                "footer.title-phrase": "Grow better with real data.",
+                "footer.title-navigation": "Navigation",
+                "footer.title-characteristics": "Characteristics",
+                "footer.title-plans": "Plans",
+                "footer.title-for-who": "For who",
+                "footer.title-demo": "Demo",
+                "footer.title-social-media": "Social Media",
+                "footer.title-contact": "Contact",
+                "footer.title-copyright": "2026 AgroTrack — Andes Smart. All rights reserved.",
+                "footer.title-privacy-policy": "Privacy policy",
+                "footer.title-term-conditions": "Terms and conditions"
                 "demo.formButton": "Request demo"
             },
         es_419:
@@ -32,6 +46,21 @@ const translation =
                 "demo.formSubtitle": "Te contactamos en menos de 24 horas.",
                 "demo.labelName": "Nombre completo",
                 "demo.labelEmail": "Correo Electrónico",
+                "demo.formButton": "Solicitar demo",
+
+                //Footer
+                "footer.title-phrase": "Cultiva mejor con datos reales.",
+                "footer.title-navigation": "Navegación",
+                "footer.title-characteristics": "Características",
+                "footer.title-plans": "Planes",
+                "footer.title-for-who": "Para quien",
+                "footer.title-demo": "Demo",
+                "footer.title-social-media": "Redes Sociales",
+                "footer.title-contact": "Contactos",
+                "footer.title-copyright": "© 2026 AgroTrack — Andes Smart. Todos los derechos reservados.",
+                "footer.title-privacy-policy": "Política de privacidad",
+                "footer.title-term-conditions": "Términos y condiciones"
+
                 "demo.formButton": "Solicitar demo"
             }
     }
