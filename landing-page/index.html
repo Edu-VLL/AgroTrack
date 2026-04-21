@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>AgroTrack</title>
+    <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+    <header>
+        <nav>
+
+        </nav>
+    </header>
+    <main> 
+        <section class="demo-request-form">
+            <div class="content">
+                <h2 data-i18n="demo.title" >Would you like to see it in action?</h2>
+                <p data-i18n="demo.subtitle">We show you how AgroTrack adapts to your plots and crops</p>
+            </div>
+
+            <!--Form to request a demo-->
+            <div class="form">
+                <h3 data-i18n="demo.formTitle">Request a demo</h3>
+                <p data-i18n="demo.formSubtitle">We’ll contact you within 24 hours.</p>
+                <form>
+                    <!-- Full name input with label-->
+                    <label for="fullName" data-i18n="demo.labelName">Full Name</label>
+                    <input type="text" name="fullName" id="fullName" placeholder="Carlos Alcántara" required aria-label="Full Name">
+
+                    <!-- Email input with label-->
+                    <label for="email" data-i18n="demo.labelEmail">Email</label>
+                    <input type="email" name="email" id="email" placeholder="Alcantara64@hotmail.com" required aria-label="Email">
+
+                    <!-- Button to request a demo-->
+                    <button type="submit" class="request-demo" data-i18n="demo.formButton">Request demo</button>
+                </form>
+            </div>
+        </section>
+
+        <!-- Button to change language-->
+        <button class="button-language" type="button" onclick="toggleLanguage()">EN | ES</button>
+    </main>
+    <script src="js/main.js"></script>
+    <!-- Footer -->
+    <footer class="footer">
+        <div class="footer-container">
+
+            <!-- Logo -->
+            <div class="footer-logo">
+                <img src="../Informe/assets/agrotrack_logo.png" alt="AgroTrack logo">
+                <p data-i18n="footer.title-phrase" class="footer-tagline">Grow better with real data.</p>
+            </div>
+
+            <!-- Navigation -->
+            <div class="footer-nav">
+                <h4 data-i18n="footer.title-navigation" class="footer-col-title">Navigation</h4>
+                <a data-i18n="footer.title-characteristics" href="#">Characteristics</a>
+                <a data-i18n="footer.title-plans" href="#">Plans</a>
+                <a data-i18n="footer.title-for-who" href="#">For who</a>
+                <a data-i18n="footer.title-demo" href="#">Demo</a>
+            </div>
+
+            <!-- Social Media -->
+            <div class="footer-social">
+                <h4 data-i18n="footer.title-social-media" class="footer-col-title">Social Media</h4>
+                <a href="#">
+                    <img src="../Informe/assets/facebook-logo.webp" alt="Facebook">
+                    Facebook
+                </a>
+                <a href="#">
+                    <img src="../Informe/assets/Tiktok-logo.png" alt="TikTok">
+                    TikTok
+                </a>
+                <a href="#">
+                    <img src="../Informe/assets/instagram-logo.png" alt="Instagram">
+                    Instagram
+                </a>
+            </div>
+
+            <!-- Contact -->
+            <div class="footer-contact">
+                <h4 data-i18n="footer.title-contact" class="footer-col-title">Contact</h4>
+                <p>📞 +51 922119422</p>
+                <p>✉️ Agrotrackperu@gmail.com</p>
+                <p>📍 Lima, Peru</p>
+            </div>
+
+        </div>
+
+        <!-- Bottom bar -->
+        <div class="footer-bottom">
+            <p data-i18n="footer.title-copyright">© 2026 AgroTrack — Andes Smart. All rights reserved.</p>
+            <div class="footer-bottom-links">
+                <a data-i18n="footer.title-privacy-policy" href="#">Privacy policy</a>
+                <a data-i18n="footer.title-term-conditions" href="#">Terms and conditions</a>
+            </div>
+        </div>
+    </footer>
+</body>
+</html>
