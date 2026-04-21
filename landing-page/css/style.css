@@ -9,20 +9,99 @@ body
     font-size: 16px;
 }
 
+/**
+    Section plans
+ */
 .plans
 {
     background: #F5F0E8;
-    padding: 50px 100px;
+    padding: 50px 80px;
 
 }
-.plan
+.plans h2
 {
+    font-size: 32px;
+    color: #2C3E2D;
+}
+.plan-card
+{
+    max-width: 360px;
+    background-color: #fff;
+    padding: 20px 30px;
+    color: #666161;
+    border-radius: 7px;
+    margin-top: 60px;
+}
+.title-card
+{
+    margin-bottom: 15px;
+}
+.title-card p
+{
+    color: #666161;
+    opacity: 70%;
+}
+.title-card h3
+{
+    font-size: 30px;
+    margin-bottom: 5px;
+}
+.section-card
+{
+    margin-bottom: 10px;
+}
+.section-card span
+{
+    margin-bottom: 15px;
+    font-weight: bolder;
+}
+.card-price
+{
+    font-size: 40px;
+}
+.card-time
+{
+    font-size: 15px;
 
 }
+.content-card p
+{
+    padding: 5px 0;
+}
+.content-card span
+{
+    margin-right: 10px;
+}
+.check
+{
+    color: green;
+}
+.plan-card button {
+    margin-top: 25px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: #2D7A3A;
+    color: #fff;
+    padding: 10px 0;
+    width: 70%;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 0.7rem;
+    font-weight: bolder;
+    transition: transform 0.2s ease;
+}
 
-/**
-    Section demo request form
- */
+.plan-card button:hover {
+    transform: scale(1.05);
+    box-shadow: 0 8px 20px rgba(0,0,0,0.2);
+    background-color: #a5e6b1;
+    color: #666161;
+}
+    /**
+        Section demo request form
+     */
 
 .demo-request-form
 {
