@@ -31,6 +31,7 @@ const translation =
 
                 //Pro plan
                 "pro-card.title": "Pro",
+                "pro-card.simbol": "Most Popular",
                 "pro-card.subtitle": "For growing farmers",
                 "pro-card.price": "S/85 ",
                 "pro-card.time": "/month",
@@ -40,8 +41,19 @@ const translation =
                 "pro-card.benefit-fourth":"PDF export",
                 "pro-card.button": "Choose Pro",
 
+                 //Enterprise plan
+                 "enterprise-card.title": "Enterprise",
+                 "enterprise-card.subtitle": "For agricultural SMEs",
+                 "enterprise-card.price": "S/149 ",
+                 "enterprise-card.time": "/month",
+                 "enterprise-card.benefit-first": "Unlimited plots and multi-user access",
+                 "enterprise-card.benefit-second":"Everything in the Pro plan",
+                 "enterprise-card.benefit-third": "Excel export and loss metrics",
+                 "enterprise-card.benefit-fourth":"Dedicated priority support",
+                 "enterprise-card.button": "Choose enterprise",
 
-                //Demo request form
+
+                    //Demo request form
                 "demo.title": "Would you like to see it in action?",
                 "demo.subtitle": "We show you how AgroTrack adapts to your plots and crops",
                 "demo.formTitle": "Request a demo",
@@ -62,7 +74,7 @@ const translation =
                 "footer.title-copyright": "2026 AgroTrack — Andes Smart. All rights reserved.",
                 "footer.title-privacy-policy": "Privacy policy",
                 "footer.title-term-conditions": "Terms and conditions"
-                "demo.formButton": "Request demo"
+
             },
         es_419:
             {
@@ -83,17 +95,29 @@ const translation =
 
                 //Plan Pro
                 "pro-card.title": "Pro",
+                "pro-card.simbol": "Más popular",
                 "pro-card.subtitle": "Para agricultores en crecimiento",
                 "pro-card.price": "S/85 ",
                 "pro-card.time": "/mes",
                 "pro-card.benefit-first": "Hasta 10 parcelas",
-                "pro-card.benefit-second":" Todo lo del plan basic",
+                "pro-card.benefit-second":"Todo lo del plan básico",
                 "pro-card.benefit-third": "Alertas climáticas avanzadas",
                 "pro-card.benefit-fourth":"Exportación en PDF",
                 "pro-card.button": "Elegir Pro",
 
+                //Plan empresa
+                "enterprise-card.title": "Empresa",
+                "enterprise-card.subtitle": "Para MYPEs agrícolas",
+                "enterprise-card.price": "S/149 ",
+                "enterprise-card.time": "/mes",
+                "enterprise-card.benefit-first": "Parcelas ilimitadas y multiusuario",
+                "enterprise-card.benefit-second":"Todo lo del plan pro",
+                "enterprise-card.benefit-third": "Exportación Excel y métricas de mermas",
+                "enterprise-card.benefit-fourth":"Soporte prioritario dedicado",
+                "enterprise-card.button": "Elegir Empresa",
 
-                //Fomulario Demo
+
+                    //Fomulario Demo
                 "demo.title": "¿Te gustaría verlo en acción?",
                 "demo.subtitle": "Te mostramos cómo AgroTrack se adapta a tus parcelas y tu tipo de cultivo",
                 "demo.formTitle": "Solicita una demo",
@@ -115,7 +139,7 @@ const translation =
                 "footer.title-privacy-policy": "Política de privacidad",
                 "footer.title-term-conditions": "Términos y condiciones"
 
-                "demo.formButton": "Solicitar demo"
+
             }
     }
 

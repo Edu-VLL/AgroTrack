@@ -7,6 +7,7 @@ body
 {
     font-family: sans-serif;
     font-size: 16px;
+    overflow-x: hidden;
 }
 
 /**
@@ -16,19 +17,38 @@ body
 {
     background: #F5F0E8;
     padding: 50px 80px;
-
 }
 .plans h2
 {
     font-size: 32px;
     color: #2C3E2D;
 }
-.plan-card
+.plan
 {
-    max-width: 360px;
-    background-color: #fff;
-    padding: 20px 30px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    padding: 50px 5px;
+    margin: 0 auto;
+    gap: 40px;
     color: #666161;
+}
+.plan button
+{
+    color: #fff;
+}
+.pro-plan
+{
+
+}
+.plan-card {
+    flex:1;
+    min-width: 370px;
+    max-width: 380px;
+    display: flex;
+    flex-direction: column;
+    background-color: #fff;
+    padding: 30px;
     border-radius: 7px;
     margin-top: 60px;
 }
@@ -36,10 +56,9 @@ body
 {
     margin-bottom: 15px;
 }
-.title-card p
+.pro-plan .content-card .check
 {
-    color: #666161;
-    opacity: 70%;
+    color: #fff;
 }
 .title-card h3
 {
@@ -76,13 +95,13 @@ body
 {
     color: green;
 }
+
 .plan-card button {
-    margin-top: 25px;
+    margin-top: 20px;
     display: block;
     margin-left: auto;
     margin-right: auto;
     background-color: #2D7A3A;
-    color: #fff;
     padding: 10px 0;
     width: 70%;
     border: none;
@@ -91,6 +110,7 @@ body
     font-size: 0.7rem;
     font-weight: bolder;
     transition: transform 0.2s ease;
+
 }
 
 .plan-card button:hover {
@@ -99,7 +119,58 @@ body
     background-color: #a5e6b1;
     color: #666161;
 }
-    /**
+
+.pro-plan {
+    position: relative;
+    overflow: hidden;
+
+    background: linear-gradient(135deg, #1a5c26, #2D7A3A, #4CAF50, #1a5c26);
+    background-size: 300% 300%;
+    animation: gradiente-movimiento 4s ease infinite;
+    color: #fff;
+}
+.pro-plan::after {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: -100%;
+    width: 50%;
+    height: 100%;
+    background: linear-gradient(
+            120deg,
+            transparent 0%,
+            rgba(255, 255, 255, 0.15) 50%,
+            transparent 100%
+    );
+    animation: shimmer-card 2s ease infinite;
+}
+@keyframes shimmer-card {
+    0%   { left: -100%; }
+    60%  { left: 150%; }
+    100% { left: 150%; }
+}
+
+.pro-plan button
+{
+    background-color: #fff;
+    color: #2D7A3A;
+}
+
+.flex-content
+{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+.simbol p
+{
+    background-color: #9dff00;
+    color: #2D7A3A;
+    padding: 7px 8px;
+    border-radius: 5px;
+
+}
+/**
         Section demo request form
      */
 
@@ -112,7 +183,6 @@ body
     max-width: 1200px;
     margin: 0 auto;
     gap: 40px;
-
 }
 .content
 {
@@ -183,26 +253,6 @@ body
     cursor: pointer;
     font-size: 0.7rem;
     font-weight: bolder;
-}
-
-/**
-    Button to change language
- */
-.button-language
-{
-    padding: 5px;
-    cursor: pointer;
-}
-
-@media (max-width: 768px) {
-    .demo-request-form {
-        flex-direction: column;
-        text-align: center;
-        padding: 30px 20px;
-    }
-    .form form label {
-        text-align: left;
-    }
 }
 
 /* ===== FOOTER ===== */
@@ -309,4 +359,24 @@ body
     color: #8aaa80;
     text-decoration: none;
 }
+
+/**
+    Button to change language
+ */
+.button-language
+{
+    padding: 5px;
+    cursor: pointer;
+}
+
+
+@media (max-width: 768px) {
+    .demo-request-form {
+        flex-direction: column;
+        text-align: center;
+        padding: 30px 20px;
+    }
+    .form form label {
+        text-align: left;
+    }
 }

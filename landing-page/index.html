@@ -16,7 +16,7 @@
             <h2 data-i18n="basic-plan.title">Clear plans, no surprises</h2>
             <p data-i18n="basic-plan.subtitle">Choose the plan that adapts to your operation</p>
             <div class="plan">
-                <!--Basic plan-->
+                <!--Basic plan card-->
                 <div class="basic-plan plan-card">
                     <div class="title-card">
                         <h3 data-i18n="basic-card.title">Basic</h3>
@@ -31,10 +31,13 @@
                     </div>
                     <button type="submit" data-i18n="basic-card.button">Get Started</button>
                 </div>
-                <!--Pro plan-->
+                <!--Pro plan card-->
                 <div class="pro-plan plan-card">
                     <div class="title-card">
-                        <h3 data-i18n="pro-card.title">Pro</h3>
+                        <div class="flex-content">
+                            <h3 data-i18n="pro-card.title">Pro</h3>
+                            <div class="simbol"><p data-i18n="pro-card.simbol">Most popular</p></div>
+                        </div>
                         <p data-i18n="pro-card.subtitle">For growing farmers</p>
                     </div>
                     <div class="content-card">
@@ -46,7 +49,8 @@
                     </div>
                     <button type="submit" data-i18n="pro-card.button">Choose Pro</button>
                 </div>
-                <!--Enterprise plan-->
+
+                <!--Enterprise plan card-->
                 <div class="enterprise-plan plan-card">
                     <div class="title-card">
                         <h3 data-i18n="enterprise-card.title">Enterprise</h3>
@@ -57,9 +61,9 @@
                         <p><span class="check">✔</span><span data-i18n="enterprise-card.benefit-first" >Unlimited plots and multi-user access</span></p>
                         <p><span class="check">✔</span><span data-i18n="enterprise-card.benefit-second">Everything in the Pro plan</span></p>
                         <p><span class="check">✔</span><span data-i18n="enterprise-card.benefit-third" >Excel export and loss metrics</span></p>
-                        <p><span class="check">✔</span><span data-i18n="enterprise-card.benefit-fourth">PDF export</span></p>
+                        <p><span class="check">✔</span><span data-i18n="enterprise-card.benefit-fourth">Dedicated priority support </span></p>
                     </div>
-                    <button type="submit" data-i18n="enterprise-card.button">Choose Pro</button>
+                    <button type="submit" data-i18n="enterprise-card.button">Choose Enterprise</button>
                 </div>
             </div>
         </section>
@@ -93,7 +97,6 @@
         <!-- Button to change language-->
         <button class="button-language" type="button" onclick="toggleLanguage()">EN | ES</button>
     </main>
-    <script src="js/main.js"></script>
     <!-- Footer -->
     <footer class="footer">
         <div class="footer-container">
@@ -149,5 +152,6 @@
             </div>
         </div>
     </footer>
+    <script src="js/main.js"></script>
 </body>
 </html>
