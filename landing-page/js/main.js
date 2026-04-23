@@ -282,3 +282,25 @@ function toggleLanguage(){
         element.textContent = translation[currentLanguage][key];
     });
 }
+
+function toggleMobileMenu() {
+        const navCollapse = document.getElementById("navCollapse");
+        const hamburgerButton = document.querySelector(".hamburger-button");
+
+        navCollapse.classList.toggle("open");
+        hamburgerButton.classList.toggle("active");
+
+        const isExpanded = navCollapse.classList.contains("open");
+        hamburgerButton.setAttribute("aria-expanded", isExpanded ? "true" : "false");
+}
+
+window.addEventListener("resize", function () {
+        const navCollapse = document.getElementById("navCollapse");
+        const hamburgerButton = document.querySelector(".hamburger-button");
+
+        if (window.innerWidth > 900 && navCollapse && hamburgerButton) {
+                navCollapse.classList.remove("open");
+                hamburgerButton.classList.remove("active");
+                hamburgerButton.setAttribute("aria-expanded", "false");
+        }
+});

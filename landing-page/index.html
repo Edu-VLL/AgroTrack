@@ -14,27 +14,43 @@
             <img src="assets/agrotrack-logo.png" alt="AgroTrack logo">
         </a>
 
-        <!-- Navigation links -->
-        <div class="nav-menu">
-            <a href="#features" data-i18n="nav.features">Features</a>
-            <a href="#plans" data-i18n="nav.plans">Plans</a>
-            <a href="#audience" data-i18n="nav.forWho">For who</a>
-            <a href="#demo" data-i18n="nav.demo">Demo</a>
-        </div>
+        <!-- Hamburger button for mobile -->
+        <button
+                class="hamburger-button"
+                type="button"
+                aria-label="Open navigation menu"
+                aria-expanded="false"
+                aria-controls="navCollapse"
+                onclick="toggleMobileMenu()">
+            <span></span>
+            <span></span>
+            <span></span>
+        </button>
 
-        <!-- Navigation action buttons -->
-        <div class="nav-actions">
-            <!-- Button to change language-->
-            <button class="button-language header-language-button" type="button" onclick="toggleLanguage()" aria-label="Toggle language">
-                <span class="language-icon" aria-hidden="true">🌐</span>
-                <span>EN | ES</span>
-            </button>
+        <!-- Collapsible navigation content -->
+        <div class="nav-collapse" id="navCollapse">
+            <!-- Navigation links -->
+            <div class="nav-menu">
+                <a href="#features" data-i18n="nav.features">Features</a>
+                <a href="#plans" data-i18n="nav.plans">Plans</a>
+                <a href="#audience" data-i18n="nav.forWho">For who</a>
+                <a href="#demo" data-i18n="nav.demo">Demo</a>
+            </div>
 
-            <!-- Sign in button -->
-            <a href="#" class="auth-button sign-in-button" data-i18n="nav.signIn">Sign in</a>
+            <!-- Navigation action buttons -->
+            <div class="nav-actions">
+                <!-- Button to change language-->
+                <button class="button-language header-language-button" type="button" onclick="toggleLanguage()" aria-label="Toggle language">
+                    <span class="language-icon" aria-hidden="true">🌐</span>
+                    <span>EN | ES</span>
+                </button>
 
-            <!-- Sign up button -->
-            <a href="#" class="auth-button sign-up-button" data-i18n="nav.signUp">Sign up</a>
+                <!-- Sign in button -->
+                <a href="#" class="auth-button sign-in-button" data-i18n="nav.signIn">Sign in</a>
+
+                <!-- Sign up button -->
+                <a href="#" class="auth-button sign-up-button" data-i18n="nav.signUp">Sign up</a>
+            </div>
         </div>
     </nav>
 </header>
