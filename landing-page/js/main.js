@@ -104,7 +104,26 @@ const translation =
                 "footer.title-contact": "Contact",
                 "footer.title-copyright": "2026 AgroTrack — Andes Smart. All rights reserved.",
                 "footer.title-privacy-policy": "Privacy policy",
-                "footer.title-term-conditions": "Terms and conditions"
+                "footer.title-term-conditions": "Terms and conditions",
+
+                //Features section
+                "features.title": "Everything you need, in one place",
+                "features.subtitle": "Features designed for day-to-day fieldwork.",
+                "features.card1.title": "Soil monitoring",
+                "features.card1.desc": "Record humidity and temperature, and know the real state of your plots.",
+                "features.card2.title": "Irrigation recommendations",
+                "features.card2.desc": "Know exactly when to water and when not to, no guessing.",
+                "features.card3.title": "Weather alerts",
+                "features.card3.desc": "Get frost, drought and heavy rain warnings in time.",
+                "features.card4.title": "Crop history",
+                "features.card4.desc": "Keep a record of every planting and harvest by season.",
+                "audience.title": "Who is AgroTrack for?",
+                "audience.subtitle": "Designed for two profiles in Peruvian agriculture.",
+                "audience.card1.title": "Farmer",
+                "audience.card1.desc": "If you work your own plot, AgroTrack helps you make clear irrigation decisions and avoid losing your harvest to preventable mistakes.",
+                "audience.card2.title": "Agricultural Business Owner",
+                "audience.card2.desc": "If you manage several plots or an SME, get full visibility of your production, losses and water consumption in a single panel.",
+
 
             },
         es_419:
@@ -199,10 +218,28 @@ const translation =
                 "footer.title-contact": "Contactos",
                 "footer.title-copyright": "© 2026 AgroTrack — Andes Smart. Todos los derechos reservados.",
                 "footer.title-privacy-policy": "Política de privacidad",
-                "footer.title-term-conditions": "Términos y condiciones"
+                "footer.title-term-conditions": "Términos y condiciones",
+                //Features section
+                "features.title": "Todo lo que necesitas, en un solo lugar",
+                "features.subtitle": "Funciones diseñadas para el día a día en el campo.",
+                "features.card1.title": "Monitoreo de suelo",
+                "features.card1.desc": "Registra humedad y temperatura, y conoce el estado real de tus parcelas.",
+                "features.card2.title": "Recomendaciones de riego",
+                "features.card2.desc": "Sabe exactamente cuándo regar y cuándo no, sin adivinar.",
+                "features.card3.title": "Alertas climáticas",
+                "features.card3.desc": "Recibe avisos de heladas, sequías y lluvias intensas a tiempo.",
+                "features.card4.title": "Historial de cultivos",
+                "features.card4.desc": "Lleva el registro de cada siembra y cosecha por temporada.",
+                "audience.title": "¿Para quién es AgroTrack?",
+                "audience.subtitle": "Pensado para dos perfiles del agro peruano.",
+                "audience.card1.title": "Agricultor",
+                "audience.card1.desc": "Si trabajas tu propia parcela, AgroTrack te ayuda a tomar decisiones claras de riego y a no perder tu cosecha por errores evitables.",
+                "audience.card2.title": "Empresario Agrícola",
+                "audience.card2.desc": "Si gestionas varias parcelas o una PYME, obtén visibilidad completa de tu producción, mermas y consumo de agua en un solo panel.",
 
 
             }
+                        
     }
 
 /**
