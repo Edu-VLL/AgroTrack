@@ -1,3 +1,5 @@
+## 3.3. Product Backlog
+
 | # Orden | User Story Id | Título | Descripción | Story Points (1/2/3/5/8) |
 |--------|---------------|--------|-------------|--------------------------|
 | **1** | **US01** | Ver propuesta de valor de AgroTrack | Como visitante, quiero ver claramente qué problema resuelve AgroTrack, para entender si la plataforma es útil para mí. | **1** |
