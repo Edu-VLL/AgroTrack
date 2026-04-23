@@ -259,35 +259,35 @@ body
     padding: 56px 80px;
     border-bottom: 1px solid #e8e8e8;
 }
- 
+
 .problema-inner {
     max-width: 960px;
     margin: 0 auto;
 }
- 
+
 .problema-title {
     font-size: 1.7rem;
     font-weight: 800;
     color: var(--dark-green);
     margin-bottom: 36px;
 }
- 
+
 .problema-grid {
     display: grid;
     grid-template-columns: 190px 240px 1fr;
     gap: 32px;
     align-items: start;
 }
- 
+
 .donut-wrap {
     display: flex;
     flex-direction: column;
     align-items: center;
     gap: 18px;
 }
- 
+
 .legend { display: flex; flex-direction: column; gap: 10px; width: 100%; }
- 
+
 .legend-item {
     display: flex;
     align-items: center;
@@ -296,50 +296,50 @@ body
     font-weight: 700;
     color: #1a1a1a;
 }
- 
+
 .legend-dot { width: 13px; height: 13px; border-radius: 50%; flex-shrink: 0; }
- 
+
 .middle-col h3 {
     font-size: 0.95rem;
     font-weight: 700;
     color: var(--dark-green);
     margin-bottom: 20px;
 }
- 
+
 .benefit-item {
     display: flex;
     align-items: center;
     gap: 12px;
     margin-bottom: 16px;
 }
- 
+
 .benefit-icon { width: 36px; height: 36px; flex-shrink: 0; }
- 
+
 .benefit-item span { font-size: 0.85rem; color: #3D463C; }
- 
+
 .right-col p {
     font-size: 0.82rem;
     color: #4a4a4a;
     line-height: 1.65;
     margin-bottom: 14px;
 }
- 
+
 .problema-highlight {
     font-size: 0.82rem !important;
     font-weight: 700 !important;
     color: var(--dark-green) !important;
     margin-bottom: 20px !important;
 }
- 
+
 .solucion-title {
     font-size: 0.95rem;
     font-weight: 700;
     color: var(--dark-green);
     margin-bottom: 12px;
 }
- 
+
 .solucion-badges { display: flex; gap: 14px; flex-wrap: wrap; align-items: center; }
- 
+
 .solucion-badge {
     display: flex;
     align-items: center;
@@ -610,7 +610,7 @@ body
 
 /* Logo column */
 .footer-logo img {
-     width: 460px;
+    width: 460px;
 }
 
 .footer-tagline {
@@ -824,12 +824,12 @@ body
         padding: 14px 16px;
     }
 
-   .brand img {
-    width: 260px;
-    height: 60px;
-    object-fit: contain;
-    object-position: left center;
-}
+    .brand img {
+        width: 260px;
+        height: 60px;
+        object-fit: contain;
+        object-position: left center;
+    }
 
     .nav-menu {
         gap: 14px;
@@ -1003,6 +1003,71 @@ body
     color: var(--text-muted);
     line-height: 1.6;
     margin: 0;
+}
+
+/* Testimonials */
+.testimonials {
+    background: #e8e3d8;
+    padding: 80px 8%;
+}
+
+.testimonials h2 {
+    font-size: 2.2rem;
+    color: #1f3b2d;
+    margin-bottom: 40px;
+    font-weight: 700;
+}
+
+.testimonials-container {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(320px, 1fr));
+    gap: 25px;
+}
+
+.testimonial-card {
+    background: #ffffff;
+    padding: 30px;
+    border-radius: 18px;
+    box-shadow: 0 8px 20px rgba(0, 0, 0, 0.06);
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.testimonial-card:hover {
+    transform: translateY(-6px);
+    box-shadow: 0 14px 28px rgba(0, 0, 0, 0.08);
+}
+
+.testimonial-card p {
+    font-size: 1rem;
+    line-height: 1.8;
+    color: #3d4a42;
+    margin-bottom: 28px;
+}
+
+.user-info {
+    display: flex;
+    align-items: center;
+    gap: 15px;
+}
+
+.user-info img {
+    width: 58px;
+    height: 58px;
+    border-radius: 50%;
+    object-fit: cover;
+    border: 3px solid #6fa64b;
+}
+
+.user-info h4 {
+    font-size: 1rem;
+    color: #1f3b2d;
+    margin: 0;
+    font-weight: 700;
+}
+
+.user-info span {
+    font-size: 0.92rem;
+    color: #6b756f;
 }
 
 @media (max-width: 768px) {
