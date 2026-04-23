@@ -14,36 +14,36 @@ const translation =
     {
         en:
             {
-                    // Navbar
-                    "nav.features": "Features",
-                    "nav.plans": "Plans",
-                    "nav.forWho": "For who",
-                    "nav.demo": "Demo",
-                    "nav.signIn": "Sign in",
-                    "nav.signUp": "Sign up",
+                // Navbar
+                "nav.features": "Features",
+                "nav.plans": "Plans",
+                "nav.forWho": "For who",
+                "nav.demo": "Demo",
+                "nav.signIn": "Sign in",
+                "nav.signUp": "Sign up",
 
-                    // Hero section
-                    "hero.titleLine1": "Grow better with",
-                    "hero.titleLine2": "real data",
-                    "hero.description": "AgroTrack helps you register your plots, monitor soil conditions, and receive clear irrigation recommendations. Decide with data, not intuition.",
-                    "hero.primaryCta": "Get started now",
-                    "hero.secondaryCta": "Request demo",
-                    "hero.badgeFirst": "No installation",
-                    "hero.badgeSecond": "Built for the field",
+                // Hero section
+                "hero.titleLine1": "Grow better with",
+                "hero.titleLine2": "real data",
+                "hero.description": "AgroTrack helps you register your plots, monitor soil conditions, and receive clear irrigation recommendations. Decide with data, not intuition.",
+                "hero.primaryCta": "Get started now",
+                "hero.secondaryCta": "Request demo",
+                "hero.badgeFirst": "No installation",
+                "hero.badgeSecond": "Built for the field",
 
-                    "problema.title": "The problem we solve",
-                    "problema.legend1": "Intuition-based decisions (70%)",
-                    "problema.legend2": "Data-informed decisions (30%)",
-                    "problema.soilTitle": "Improve soil health",
-                    "problema.benefit1": "Reduces nutrient loss",
-                    "problema.benefit2": "Prevents water stress",
-                    "problema.benefit3": "Maximizes crop yield",
-                    "problema.description": "Over 70% of Peruvian farmers make irrigation decisions by intuition. Too much water loses nutrients, too little stresses the crop. Either way, harvest is lost.",
-                    "problema.cta": "Grow better and earn more, without overspending on complicated technology",
-                    "problema.solucionTitle": "Our Solution",
-                    "problema.badge1": "Robust technology",
-                    "problema.badge2": "Easy to use",
-                    "problema.badge3": "Low operating cost",
+                "problema.title": "The problem we solve",
+                "problema.legend1": "Intuition-based decisions (70%)",
+                "problema.legend2": "Data-informed decisions (30%)",
+                "problema.soilTitle": "Improve soil health",
+                "problema.benefit1": "Reduces nutrient loss",
+                "problema.benefit2": "Prevents water stress",
+                "problema.benefit3": "Maximizes crop yield",
+                "problema.description": "Over 70% of Peruvian farmers make irrigation decisions by intuition. Too much water loses nutrients, too little stresses the crop. Either way, harvest is lost.",
+                "problema.cta": "Grow better and earn more, without overspending on complicated technology",
+                "problema.solucionTitle": "Our Solution",
+                "problema.badge1": "Robust technology",
+                "problema.badge2": "Easy to use",
+                "problema.badge3": "Low operating cost",
 
                 //AgroTrack Plans
 
@@ -72,19 +72,19 @@ const translation =
                 "pro-card.benefit-fourth":"PDF export",
                 "pro-card.button": "Choose Pro",
 
-                 //Enterprise plan
-                 "enterprise-card.title": "Enterprise",
-                 "enterprise-card.subtitle": "For agricultural SMEs",
-                 "enterprise-card.price": "S/149 ",
-                 "enterprise-card.time": "/month",
-                 "enterprise-card.benefit-first": "Unlimited plots and multi-user access",
-                 "enterprise-card.benefit-second":"Everything in the Pro plan",
-                 "enterprise-card.benefit-third": "Excel export and loss metrics",
-                 "enterprise-card.benefit-fourth":"Dedicated priority support",
-                 "enterprise-card.button": "Choose enterprise",
+                //Enterprise plan
+                "enterprise-card.title": "Enterprise",
+                "enterprise-card.subtitle": "For agricultural SMEs",
+                "enterprise-card.price": "S/149 ",
+                "enterprise-card.time": "/month",
+                "enterprise-card.benefit-first": "Unlimited plots and multi-user access",
+                "enterprise-card.benefit-second":"Everything in the Pro plan",
+                "enterprise-card.benefit-third": "Excel export and loss metrics",
+                "enterprise-card.benefit-fourth":"Dedicated priority support",
+                "enterprise-card.button": "Choose enterprise",
 
 
-                    //Demo request form
+                //Demo request form
                 "demo.title": "Would you like to see it in action?",
                 "demo.subtitle": "We show you how AgroTrack adapts to your plots and crops",
                 "demo.formTitle": "Request a demo",
@@ -124,41 +124,52 @@ const translation =
                 "audience.card2.title": "Agricultural Business Owner",
                 "audience.card2.desc": "If you manage several plots or an SME, get full visibility of your production, losses and water consumption in a single panel.",
 
+                //Testimonials
+                "testimonials.title-of-opinion": "What the field says",
+                "testimonials.opinion-pedro": "With AgroTrack I now know exactly when to irrigate and how much water my crops need.\n" +
+                    "I have reduced water waste and improved the quality of my tomatoes.",
+                "testimonials.occupation-pedro": "Farmer – Arequipa",
+                "testimonials.opinion-rosa": "Before, I checked everything manually. Now from my phone I can see humidity,\n" +
+                    "weather, and alerts. AgroTrack saves me time every week.",
+                "testimonials.occupation-rosa": "Agricultural Producer – Ica",
+                "testimonials.opinion-julio": "I manage several fields and AgroTrack lets me control each one in a single place.\n" +
+                    "I make faster decisions with better results.",
+                "testimonials.occupation-julio": "Agricultural Entrepreneur – Piura"
 
             },
         es_419:
             {
-                    // Navbar
-                    "nav.features": "Características",
-                    "nav.plans": "Planes",
-                    "nav.forWho": "Para quién",
-                    "nav.demo": "Demo",
-                    "nav.signIn": "Ingresar",
-                    "nav.signUp": "Registrarse",
+                // Navbar
+                "nav.features": "Características",
+                "nav.plans": "Planes",
+                "nav.forWho": "Para quién",
+                "nav.demo": "Demo",
+                "nav.signIn": "Ingresar",
+                "nav.signUp": "Registrarse",
 
-                    // Hero section
-                    "hero.titleLine1": "Cultiva mejor con",
-                    "hero.titleLine2": "datos reales",
-                    "hero.description": "AgroTrack te ayuda a registrar tus parcelas, monitorear el suelo y recibir recomendaciones claras de riego. Decide con datos, no por intuición.",
-                    "hero.primaryCta": "Comenzar ahora",
-                    "hero.secondaryCta": "Solicitar demo",
-                    "hero.badgeFirst": "Sin instalación",
-                    "hero.badgeSecond": "Pensado para el campo",
+                // Hero section
+                "hero.titleLine1": "Cultiva mejor con",
+                "hero.titleLine2": "datos reales",
+                "hero.description": "AgroTrack te ayuda a registrar tus parcelas, monitorear el suelo y recibir recomendaciones claras de riego. Decide con datos, no por intuición.",
+                "hero.primaryCta": "Comenzar ahora",
+                "hero.secondaryCta": "Solicitar demo",
+                "hero.badgeFirst": "Sin instalación",
+                "hero.badgeSecond": "Pensado para el campo",
 
-                    "problema.title": "El problema que resolvemos",
-                    "problema.legend1": "Decisiones por intuición (70%)",
-                    "problema.legend2": "Decisiones informadas (30%)",
-                    "problema.soilTitle": "Mejorar la salud del suelo",
-                    "problema.benefit1": "Reduce la pérdida de nutrientes",
-                    "problema.benefit2": "Evita el estrés hídrico",
-                    "problema.benefit3": "Maximiza el rendimiento",
-                    "problema.description": "Más del 70% de los agricultores peruanos toman decisiones de riego por intuición. El exceso de agua pierde nutrientes, la falta, estresa al cultivo. En ambos casos, se pierde cosecha.",
-                    "problema.cta": "Mejora tu cosecha y gana más, sin gastar de más en tecnología complicada",
-                    "problema.solucionTitle": "Nuestra Solución",
-                    "problema.badge1": "Tecnología robusta",
-                    "problema.badge2": "Fácil de usar",
-                    "problema.badge3": "Bajo costo operativo",
-                    
+                "problema.title": "El problema que resolvemos",
+                "problema.legend1": "Decisiones por intuición (70%)",
+                "problema.legend2": "Decisiones informadas (30%)",
+                "problema.soilTitle": "Mejorar la salud del suelo",
+                "problema.benefit1": "Reduce la pérdida de nutrientes",
+                "problema.benefit2": "Evita el estrés hídrico",
+                "problema.benefit3": "Maximiza el rendimiento",
+                "problema.description": "Más del 70% de los agricultores peruanos toman decisiones de riego por intuición. El exceso de agua pierde nutrientes, la falta, estresa al cultivo. En ambos casos, se pierde cosecha.",
+                "problema.cta": "Mejora tu cosecha y gana más, sin gastar de más en tecnología complicada",
+                "problema.solucionTitle": "Nuestra Solución",
+                "problema.badge1": "Tecnología robusta",
+                "problema.badge2": "Fácil de usar",
+                "problema.badge3": "Bajo costo operativo",
+
                 //Planes de AgroTrack
 
                 //Plan básico
@@ -198,7 +209,7 @@ const translation =
                 "enterprise-card.button": "Elegir Empresa",
 
 
-                    //Fomulario Demo
+                //Fomulario Demo
                 "demo.title": "¿Te gustaría verlo en acción?",
                 "demo.subtitle": "Te mostramos cómo AgroTrack se adapta a tus parcelas y tu tipo de cultivo",
                 "demo.formTitle": "Solicita una demo",
@@ -237,9 +248,19 @@ const translation =
                 "audience.card2.title": "Empresario Agrícola",
                 "audience.card2.desc": "Si gestionas varias parcelas o una PYME, obtén visibilidad completa de tu producción, mermas y consumo de agua en un solo panel.",
 
-
+                //Testimonials
+                "testimonials.title-of-opinion": "Lo que dicen del campo",
+                "testimonials.opinion-pedro": "Con AgroTrack ahora sé exactamente cuándo regar y cuánto necesita mi cultivo. \n" +
+                    "He reducido desperdicio de agua y mis tomates salen de mejor calidad.",
+                "testimonials.ocupation-pedro": "Agricultor – Arequipa",
+                "testimonials.opinion-rosa": "Antes revisaba todo manualmente. Hoy desde mi celular veo humedad, clima y alertas. \n" +
+                    "AgroTrack me ahorra tiempo cada semana.",
+                "testimonials.ocupation-rosa": "Productora Agrícola – Ica",
+                "testimonials.opinion-julio": "Manejo varias parcelas y AgroTrack me permite controlar cada una en un solo lugar. \n" +
+                    "Tomo decisiones más rápidas y con mejores resultados.",
+                "testimonials.ocupation-julio": "Empresario Agrícola – Piura"
             }
-                        
+
     }
 
 /**
