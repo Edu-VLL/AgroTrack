@@ -288,12 +288,12 @@ artistas como de sus posibles clientes.
 
 **User persona - Agricultores**
 
-![FOTO](assets/User-Persona1.png)
+![FOTO](assets/user_personaAgricultor.png)
 
 
 **User persona - Empresarios Agrícolas**
 
-![FOTO](assets/User-Persona2.png)
+![FOTO](assets/user_personaEmpresario.png)
 
 ### 2.3.2. User Task Matrix
 
@@ -332,10 +332,10 @@ uso de una solución tecnológica como AgroTrack.
 
 **User Journey Mapping - Agricultor**
 
-![FOTO](assets/journey_mapping_Agricultor.png)
+![FOTO](assets/Journey-agricultor.png)
 
 **User Journey Mapping - Agricultor**
-![FOTO](assets/journey_mapping_EmpresarioAgricola.png)
+![FOTO](assets/journey-empresario.png)
 
 ### 2.3.4. Empathy Mapping
 
