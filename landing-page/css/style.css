@@ -1192,3 +1192,37 @@ body
         padding: 32px 16px;
     }
 }
+
+/* Responsive problema-section */
+@media (max-width: 900px) {
+    .problema-section {
+        padding: 40px 24px;
+    }
+
+    .problema-grid {
+        grid-template-columns: 1fr 1fr;
+    }
+
+    .right-col {
+        grid-column: 1 / -1;
+    }
+}
+
+@media (max-width: 600px) {
+    .problema-grid {
+        grid-template-columns: 1fr;
+    }
+
+    .donut-wrap {
+        align-items: flex-start;
+    }
+
+    .right-col {
+        grid-column: unset;
+    }
+
+    .solucion-badges {
+        flex-direction: column;
+        align-items: flex-start;
+    }
+}
