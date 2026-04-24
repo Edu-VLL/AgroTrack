@@ -55,7 +55,6 @@ const translation =
                 "basic-card.price": "S/39 ",
                 "basic-card.time": "/month",
                 "basic-card.benefit-first": "Up to 3 plots",
-                "basic-card.benefit-second":"Dashboard",
                 "basic-card.benefit-third": "Irrigation recommendations",
                 "basic-card.benefit-fourth":"Basic weather alerts",
                 "basic-card.button": "Get Started",
@@ -67,9 +66,10 @@ const translation =
                 "pro-card.price": "S/85 ",
                 "pro-card.time": "/month",
                 "pro-card.benefit-first": "Up to 10 plots",
-                "pro-card.benefit-second":"Everything in the Basic plan",
-                "pro-card.benefit-third": "Advanced weather alerts",
-                "pro-card.benefit-fourth":"PDF export",
+                "pro-card.benefit-second":"Dashboard",
+                "pro-card.benefit-third": "Everything in the Basic plan",
+                "pro-card.benefit-fourth":"Advanced weather alerts",
+                "pro-card.benefit-fifth":"PDF export",
                 "pro-card.button": "Choose Pro",
 
                 //Enterprise plan
@@ -180,7 +180,6 @@ const translation =
                 "basic-card.price": "S/39 ",
                 "basic-card.time": "/mes",
                 "basic-card.benefit-first": "Hasta 3 parcelas",
-                "basic-card.benefit-second":"Panel",
                 "basic-card.benefit-third": "Recomendaciones de riego",
                 "basic-card.benefit-fourth":"Alertas climáticas básicas",
                 "basic-card.button": "Comenzar",
@@ -192,9 +191,10 @@ const translation =
                 "pro-card.price": "S/85 ",
                 "pro-card.time": "/mes",
                 "pro-card.benefit-first": "Hasta 10 parcelas",
-                "pro-card.benefit-second":"Todo lo del plan básico",
-                "pro-card.benefit-third": "Alertas climáticas avanzadas",
-                "pro-card.benefit-fourth":"Exportación en PDF",
+                "pro-card.benefit-second":"Panel",
+                "pro-card.benefit-third": "Todo lo del plan básico",
+                "pro-card.benefit-fourth":"Alertas climáticas avanzadas",
+                "pro-card.benefit-fifth":"Exportación en PDF",
                 "pro-card.button": "Elegir Pro",
 
                 //Plan empresa
