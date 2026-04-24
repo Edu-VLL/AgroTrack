@@ -4,6 +4,7 @@ El equipo realizó una sesión colaborativa en Miro para entender el dominio del
 
 
 ![Big event storming image](assets/big_event_storming_Image.png)
+https://miro.com/app/board/uXjVGhuhZ48=/?share_link_id=264887531428
 
 Descripción del proceso modelado:
 * **Exploración de Eventos (Naranja):** Representan hechos que ya sucedieron en el sistema, como el registro del usuario (User Registered), la creación de una parcela (Plot Created) o el envío de una recomendación de riego (Recommendation Sent).
