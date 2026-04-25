@@ -6,7 +6,7 @@ Esta sección presentará las herramientas que se han utilizado durante este pro
 para desarrollar nuestras plataformas digitales con una gestión estructurada de los cambios,
 versiones y configuraciones dentro del desarrollo de software.
 
-### 5.1.2 Software Development Environment Configuration.
+### 5.1.1 Software Development Environment Configuration.
 
 En el presente proyecto, para la etapa de diseño UX/UI se utilizó la plataforma Figma, la cual permitió elaborar prototipos, definir la estructura visual y organizar la experiencia de usuario de la solución propuesta.
 
